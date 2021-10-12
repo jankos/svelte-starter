@@ -1,7 +1,7 @@
 {
-  "name": "svether",
+  "name": "svelte-starter",
   "version": "1.0.0",
-  "description": "Svelte Weather PWA",
+  "description": "Svelte starter",
   "main": "dist/index.html",
   "private": true,
   "scripts": {
@@ -22,22 +22,23 @@
     "@rollup/plugin-commonjs": "^18.0.0",
     "@rollup/plugin-json": "^4.1.0",
     "@rollup/plugin-node-resolve": "^11.2.0",
-    "@rollup/plugin-url": "^6.0.0",
-    "autoprefixer": "^10.2.5",
-    "postcss": "^8.2.7",
-    "postcss-load-config": "^3.0.1",
-    "rollup": "^2.41.0",
+    "@rollup/plugin-url": "^6.1.0",
+    "autoprefixer": "^10.3.7",
+    "postcss": "^8.3.9",
+    "postcss-load-config": "^3.1.0",
+    "rollup": "^2.58.0",
     "rollup-plugin-css-only": "^3.1.0",
     "rollup-plugin-generate-html-template": "^1.7.0",
-    "rollup-plugin-livereload": "^2.0.0",
+    "rollup-plugin-livereload": "^2.0.5",
     "rollup-plugin-progress": "^1.1.2",
     "rollup-plugin-serve": "^1.1.0",
     "rollup-plugin-svelte": "^7.1.0",
     "rollup-plugin-terser": "^7.0.2",
-    "svelte": "^3.35.0",
-    "svelte-preprocess": "^4.6.9",
+    "svelte": "^3.43.1",
+    "svelte-preprocess": "^4.9.8",
     "svelte-routing": "^1.6.0",
-    "tailwindcss": "^2.0.3",
-    "tailwindcss-font-inter": "^2.0.2"
+    "tailwindcss": "^2.2.16",
+    "tailwindcss-font-inter": "^2.0.2",
+    "typescript": "^4.4.4"
   }
 }
